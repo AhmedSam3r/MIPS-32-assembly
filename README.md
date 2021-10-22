@@ -1,2 +1,2 @@
-problem 5 add two floating points using IEEE-754 floating point numbers
-but the code needs refactoring data types to float instead of integers
+Problem 5: adding two numbers using IEEE-754 floating point numbers.
+But the code needs refactoring, data types have to change to float instead of integers.
